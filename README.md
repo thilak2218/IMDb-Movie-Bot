@@ -51,7 +51,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://github.com/thilak2218/IMDb-Movie-Bot/edit/master/README.md">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">? template=https://github.com/thilak2218/IMDb-Movie-Bot/edit/master/README.md"
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 <a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/youtube/views/DFJxT7nUh10?style=social">
