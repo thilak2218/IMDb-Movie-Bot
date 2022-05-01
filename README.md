@@ -64,7 +64,7 @@ You can deploy this bot anywhere.
 <br/>
 
 <p align="left">
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fjosprojects%2Ftgmoviebot"
+<a href="https://railway.app/new/template?template=https://github.com/thilak2218/IMDb-Movie-Bot/edit/master/README.md"
 ">
      <img height="30px" src="https://railway.app/button.svg">
   </a>
